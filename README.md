@@ -69,6 +69,7 @@ print("Root Mean Square Error = ",rmse)
 ```
 
 ## Output:
+```
 #head:
 ![image](https://github.com/user-attachments/assets/fce490e4-d40d-43c8-8b04-dd41c3308c26)
 #tail:
@@ -86,5 +87,6 @@ print("Root Mean Square Error = ",rmse)
 #Values of MSE, MAE and RMSE:
 ![image](https://github.com/user-attachments/assets/4deea0da-68d1-49c2-b962-09d1815ac96d)
 
+```
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
