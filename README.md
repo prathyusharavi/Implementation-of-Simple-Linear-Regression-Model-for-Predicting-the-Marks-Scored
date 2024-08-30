@@ -88,9 +88,11 @@ print("Root Mean Square Error = ",rmse)
 ![image](https://github.com/user-attachments/assets/86456f15-e8ce-45ad-98ba-475648531fbe)
 
 #testing set graph:
+
 ![image](https://github.com/user-attachments/assets/b709f4c4-e4cd-41ef-bf67-5f7e1f346a73)
 
 #Values of MSE, MAE and RMSE:
+
 ![image](https://github.com/user-attachments/assets/4deea0da-68d1-49c2-b962-09d1815ac96d)
 
 ## Result:
